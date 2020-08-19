@@ -2,21 +2,20 @@ remote_theme: Evbor/space-jekyll-template
 
 
 # Site settings
-title: Evbor - Data Scientist
-description: A blog about lorem ipsum
+title: Evbor - AI|ML|DS Enthusiast
+description: A blog about various topics...
 baseurl: "" # the subpath
 url: "https://evbor.github.io" # the base hostname &/|| protocol for your site
 
 # User settings
 username: Evbor
-user_description: Lorem Developer
+user_description: Machine Learning Developer
 user_title: Evbor
 email: evan.borras123@gmail.com
 twitter_username: loremipsum
 github_username:  Evbor
 gplus_username:  loremipsum
 linkedin_public_url: evan-borras-93b66053
-disqus_username: loremipsum
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings

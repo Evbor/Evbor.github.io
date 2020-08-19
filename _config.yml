@@ -60,5 +60,10 @@ links:
       url: ""
       key_trigger: s #WARNING: search only works with "s"
       
+# projects in header index
+projects:
+  - name: Stock Analysis
+    url: https://github.com/Evbor/Stock_Analysis 
+
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

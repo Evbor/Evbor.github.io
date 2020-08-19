@@ -4,7 +4,7 @@ remote_theme: Evbor/space-jekyll-template
 # Site settings
 description: A blog about lorem ipsum
 baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site
+url: "https://evbor.github.io" # the base hostname &/|| protocol for your site
 
 # User settings
 username: Evbor

@@ -3,7 +3,7 @@ remote_theme: victorvoid/space-jekyll-template
 
 # Site settings
 description: A blog about lorem ipsum
-baseurl: "index" # the subpath
+baseurl: "index.md" # the subpath
 url: "" # the base hostname &/|| protocol for your site
 
 # User settings
